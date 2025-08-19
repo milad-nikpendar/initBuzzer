@@ -1,0 +1,9 @@
+Buzzer  KEYWORD1
+RtosBuzzer  KEYWORD1
+
+begin   KEYWORD2
+write   KEYWORD2
+tone    KEYWORD2
+pulse   KEYWORD2
+beep    KEYWORD2
+buzzerTask  KEYWORD2
